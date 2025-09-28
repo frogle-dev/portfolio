@@ -114,7 +114,7 @@ minima:
     - navigation/about.md
     - navigation/blog.md
     - navigation/search.md
-    - hacks/cookie-clicker-game.md
-    - hacks/pong.md
+    - hacks/cookie-clicker/cookie-clicker-game.md
+    - hacks/pong/pong.md
     - hacks/snake.md
     - hacks/rock-paper-scissor.md
