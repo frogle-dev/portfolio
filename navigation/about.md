@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: About Me
+title: About
 description: About me (Jonah Larsson)
-menu: nav/home.html
+permalink: /navigation/about/
 ---
 
 ## As a conversation Starter
